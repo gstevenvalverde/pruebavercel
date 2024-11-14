@@ -1,1 +1,1 @@
-web: gunicorn VercelDeploy.wgsi
+web: gunicorn VercelDeploy.wsgi
